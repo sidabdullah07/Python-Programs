@@ -13,3 +13,4 @@ print(CET|JEE) # total students appeared in cet and jee #either cet or jee but n
 print (CET|JEE) #students appeared in both cet and jee
 print (CET-JEE)
 print((CET|JEE) - (CET|JEE)) #either cet or jee but not both
+
