@@ -1,3 +1,5 @@
+https://github.com/sidabdullah07/Python-Programs
+print("UIN : 251A010", "DATE : 09-02-2026")
 #file = open("s.txt","w")
 #file.write("HELLO WORLD")
 #file.close()
@@ -12,3 +14,4 @@ for i in content:
    if len(i)==n:
        print(i)
 file.close()
+
