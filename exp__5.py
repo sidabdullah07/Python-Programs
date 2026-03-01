@@ -1,3 +1,4 @@
+https://github.com/sidabdullah07/Python-Programs
 print("UNI : 251A010, DATE : 03-02-2026")
 l = []
 name = []
@@ -11,3 +12,4 @@ section.extend((input("ENTER YOUR SECTION : "), input("ENTER YOUR FRIENDS SECTIO
 
 l.append((name[0], age[0], section[0], name[1], age[1], section[1]))
 print(l)
+
