@@ -1,3 +1,5 @@
+https://github.com/sidabdullah07/Python-Programs
+print("UIN : 251A010", "DATE : 09-02-2026")
 try:
     n1 = int(input("ENTER FIRST VALUE : "))
     n2 = int(input("ENTER SECOND VALUE : "))
@@ -10,3 +12,4 @@ else:
     print("DIVICION : ",d)
 finally:
     print("THANK YOU......")
+
