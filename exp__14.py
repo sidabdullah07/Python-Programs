@@ -9,7 +9,8 @@ except ZeroDivisionError:
 except ValueError:
     print("INVALID INPUT")
 else:
-    print("DIVICION : ",d)
+    print("DIVISION : ",d)
 finally:
     print("THANK YOU......")
+
 
