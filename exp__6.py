@@ -1,3 +1,5 @@
+https://github.com/sidabdullah07/Python-Programs
+print("UIN : 251A010", "DATE : 09-02-2026")
 #student enrollment manager
 print("251A010", "Abdullah")
 CET={"251A010", "251A011","251A054"}
@@ -13,4 +15,5 @@ print(CET|JEE) # total students appeared in cet and jee #either cet or jee but n
 print (CET|JEE) #students appeared in both cet and jee
 print (CET-JEE)
 print((CET|JEE) - (CET|JEE)) #either cet or jee but not both
+
 
