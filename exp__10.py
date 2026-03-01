@@ -1,4 +1,4 @@
-
+https://github.com/sidabdullah07/Python-Programs
 #FACTORIAL GENERATOR
 print("UIN : 251A010  DATE : 10-02-2026")
 n = int(input("ENTER NUMBER : "))
@@ -7,3 +7,4 @@ for i in range(2, n):
     print(f"{i} IS NOT PRIME ")
   else:
     print(f"{i} IS PRIME ")
+
